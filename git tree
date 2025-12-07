@@ -1,0 +1,48 @@
+[33mcommit ec895ae76a11be68aedf6b02ee5fbf75c41fbe84[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Merge: d2e301d f4e92eb
+Author: Roberto Castilla <Roberto.luiscastilla@gmail.com>
+Date:   Sat Dec 6 14:28:23 2025 -0500
+
+    Merge branch 'main' into login
+
+[33mcommit f4e92eb3ddd248986cb66569c41e966180387484[m[33m ([m[1;32mmain[m[33m)[m
+Author: Roberto Castilla <Roberto.luiscastilla@gmail.com>
+Date:   Sat Dec 6 14:24:25 2025 -0500
+
+    Git 3 v2
+
+[33mcommit d2e301d9861d2e737b71c5068bc26da0b6a00d22[m
+Author: Roberto Castilla <Roberto.luiscastilla@gmail.com>
+Date:   Sat Dec 6 14:19:31 2025 -0500
+
+    Login
+
+[33mcommit 793c260c4e2b8e5e20bf479e6dc7d15d83653872[m
+Author: Roberto Castilla <Roberto.luiscastilla@gmail.com>
+Date:   Fri Dec 5 13:06:36 2025 -0500
+
+    Este es mi quinto commit
+
+[33mcommit 81b4bc10e11f150ea8e668d1afd344b25a742622[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: Roberto Castilla <Roberto.luiscastilla@gmail.com>
+Date:   Fri Dec 5 12:26:30 2025 -0500
+
+    Se ayade el .gitignore
+
+[33mcommit 8a84f507edef928e993569a6f890947cbde51e1e[m
+Author: Roberto Castilla <Roberto.luiscastilla@gmail.com>
+Date:   Fri Dec 5 12:12:25 2025 -0500
+
+    Se actualiza el texto del print
+
+[33mcommit dfd9bf54bdcc4c1bacf0185d0c579a1abcce4782[m
+Author: Roberto Castilla <Roberto.luiscastilla@gmail.com>
+Date:   Fri Dec 5 11:52:03 2025 -0500
+
+    Este es mi segundo commit
+
+[33mcommit a82874f04c63b69ff9e825d0af38ef8e5730d65b[m
+Author: Roberto Castilla <Roberto.luiscastilla@gmail.com>
+Date:   Fri Dec 5 11:49:23 2025 -0500
+
+    Este es mi primer commit
